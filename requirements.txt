@@ -1,0 +1,5 @@
+fastapi[standard]
+pydantic==2.8.0
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
